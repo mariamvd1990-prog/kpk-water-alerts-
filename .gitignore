@@ -1,4 +1,4 @@
-stream lit
+streamlit_app.py
 numpy
 pandas
 scikit learn
