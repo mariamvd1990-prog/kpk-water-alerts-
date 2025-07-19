@@ -1,3 +1,7 @@
+stream lit
+numpy
+pandas
+scikit learn
 *.tar
 *.tar.*
 *.jar
